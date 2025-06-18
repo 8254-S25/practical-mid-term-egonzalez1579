@@ -266,3 +266,40 @@ Using `sftp` or `Filezilla`, transfer the files **`pr.txt,pr1.txt,pr2.txt,pr3.tx
 ```
 ls -l
 ```
+
+1.  scp edwingonzalez.txt pi@192.168.1.10:/home/pi/
+
+2.  ls -l
+
+3.  ls -l > pr1.txt
+
+4.  -rwx--x--- 1 pi pi 32 Jun 18 11:34 Edwin_Gonzalez.txt
+
+5.  pwd
+
+6.  chmod 710 Edwin_Gonzalez.txt
+
+7.  mkdir midtermExam-301
+
+8.  drwxr-xr-x 2 pi pi 4096 Jun 18 11:40 midtermExam-301
+
+9.  netstat -at
+
+10. netstat -at > pr2.txt
+
+11. sftp pi@192.168.4.247
+
+12. put midtermPi.txt
+
+13. pwd > mt.txt; tree -l >> pr.txt
+
+14. sudo useradd egonzalez
+
+15. sudo mkdir /home/edwingonzalez
+    sudo chown egonzalez:egonzalez /home/egonzalez
+
+16. sudo apt-get update
+    sudo apt-get install filezilla -y
+
+17. cd /home
+    ls -als > /home/pi/pr3.txt
