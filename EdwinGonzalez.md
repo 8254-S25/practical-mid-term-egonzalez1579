@@ -266,5 +266,3 @@ Using `sftp` or `Filezilla`, transfer the files **`pr.txt,pr1.txt,pr2.txt,pr3.tx
 ```
 ls -l
 ```
-
-Rename the file to `yourname.md` where yourname is the concatenation of your first name and last name. Then upload the file to GitHub.
