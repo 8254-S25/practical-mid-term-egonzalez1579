@@ -1,0 +1,2 @@
+egonzalez:x:1001:1001:Edwin Gonzalez,,,:/home/egonzalez:/bin/bash
+mysql:x:111:123:MySQL Server,,,:/nonexistent:/bin/false

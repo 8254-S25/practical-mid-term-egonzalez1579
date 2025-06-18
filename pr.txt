@@ -1,0 +1,20 @@
+.
+├── Bookshelf
+│   └── BeginnersGuide-5thEd-Eng_v4.pdf
+├── Desktop
+├── Documents
+├── Downloads
+├── Edwin_Gonzalez.txt
+├── midtermExam-301
+├── midtermPi.txt
+├── mt.txt
+├── Music
+├── Pictures
+├── pr1.txt
+├── pr2.txt
+├── pr.txt
+├── Public
+├── Templates
+└── Videos
+
+11 directories, 7 files
